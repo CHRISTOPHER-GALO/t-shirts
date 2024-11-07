@@ -44,7 +44,7 @@ def take_parameters(size, text):
         else:
             break
 
-    text = input("\na teraz, podaj tekst: ")
+    text = input("\a teraz, podaj tekst: ")
 
     # added >>> :
 
