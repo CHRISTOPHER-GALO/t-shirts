@@ -22,7 +22,7 @@ def main():
     make_shirt(size, text)
 
 
-def take_parameters(size, text):
+def take_parameters():
     """
     zbiera parametry koszulki do zamówienia
     :size: rozmiar koszulki
