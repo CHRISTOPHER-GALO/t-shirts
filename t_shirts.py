@@ -1,4 +1,3 @@
-# 8.4
 """
 zmodyfikuj make_shirt() z zad. 8.3 tak, aby:
 - domyślnie były to duze koszulki,
@@ -73,7 +72,7 @@ def take_parameters(size, text):
 
     # added <<<
 
-    return (size, text)
+    return size, text
 
 
 def make_shirt(size, text):
